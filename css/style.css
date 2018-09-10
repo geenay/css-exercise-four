@@ -63,20 +63,20 @@ body {
 
 @media (min-width: 600px) {
   .container {
-    width:50%;
+    width:80%;
     margin:0 auto;
       }
-      
+
       .preview {
         float:right;
         height:200px;
         margin: 1% 1%;
-        width:40%;
+        width:48%;
 
       }
 }
 
-@media (min-width: 500px){
+@media (min-width: 900px){
   .container {
     width: 70%;
 }
